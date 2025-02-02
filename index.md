@@ -11,7 +11,7 @@ layout: default
 
 <!-- Profile Photo (centered with circular styling) -->
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="images/profile.jpg" alt="Shreyas Bachiraju" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 15px;" />
+  <img src="files/profile_pic.png" alt="Shreyas Bachiraju" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 15px;" />
 </div>
 
 <!-- Header Section -->
