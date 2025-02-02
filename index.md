@@ -6,9 +6,6 @@ layout: default
 <nav>
   <ul style="display: flex; justify-content: center; list-style: none; padding: 10px; font-size: 18px;">
     <li style="margin: 0 15px;"><a href="experience.md">Experience</a></li>
-    <li style="margin: 0 15px;"><a href="researchprojects.md">Research & Projects</a></li>
-    <li style="margin: 0 15px;"><a href="resume.md">Resume</a></li>
-    <li style="margin: 0 15px;"><a href="contact.md">Contact</a></li>
   </ul>
 </nav>
 
@@ -41,9 +38,7 @@ This website serves as a portfolio showcasing my **research, projects, and techn
   - Developing synthetic datasets for more efficient AI training.
 
 For more details, visit:
-- **[Experience](experience.md)**
-- **[Research & Projects](researchprojects.md)**
-- **[Resume](resume.md)**  
+- **[Experience](experience.md)**  
 
 ---
 
@@ -61,8 +56,6 @@ I am open to discussions and collaborations related to **machine learning, AI-dr
 ## Quick Links
 
 - **[Experience](experience.md)**
-- **[Research & Projects](researchprojects.md)**
-- **[Resume](resume.md)**
 - **[Data Mining & Reinforcement Learning Lab](https://labs.engineering.asu.edu/hw/)**
 - **[Arizona State University](https://www.asu.edu/)**  
 
