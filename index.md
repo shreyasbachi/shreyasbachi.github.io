@@ -11,7 +11,7 @@ layout: default
 
 <!-- Profile Photo (centered) -->
 <p align="center">
-  <img src="images/profile.jpg" alt="Shreyas Bachiraju" width="200" height="200" style="border-radius: 50%;" />
+  <img src="files/profile_pic.png" alt="Shreyas Bachiraju" width="200" height="200" style="border-radius: 50%;" />
 </p>
 
 # Shreyas Bachiraju
