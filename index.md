@@ -14,12 +14,6 @@ layout: default
   <img src="files/profile_pic.png" alt="Shreyas Bachiraju" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 15px;" />
 </div>
 
-<!-- Header Section -->
-<h1 style="text-align: center; font-size: 2.2rem; font-weight: 600; margin-bottom: 10px; color: #1a202c;">Shreyas Bachiraju</h1>
-<p style="text-align: center; font-size: 1rem; color: #4a5568; margin-bottom: 30px;">
-  Portfolio of Shreyas Bachiraju – Research, Projects, and Experience in AI and ML
-</p>
-
 ---
 
 ## About Me

@@ -1,16 +1,14 @@
-# Site Settings
 title: "Shreyas Bachiraju"
 description: "Portfolio of Shreyas Bachiraju - Research, Projects, and Experience in AI and ML"
 author: "Shreyas Bachiraju"
-baseurl: ""
-url: "shreyasbachi.github.io"
+baseurl: "" 
+url: "https://shreyasbachi.github.io"
 
-# Navigation Links (Modify to match your site structure)
 nav:
   - title: "Experience"
     url: "/experience"
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 
 # Markdown Settings
 markdown: kramdown
