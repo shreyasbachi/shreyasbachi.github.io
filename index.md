@@ -3,64 +3,60 @@ layout: default
 ---
 
 <!-- Navigation Bar -->
-<nav>
-  <ul style="display: flex; justify-content: center; list-style: none; padding: 10px; font-size: 18px;">
-    <li style="margin: 0 15px;"><a href="experience.md">Experience</a></li>
-  </ul>
+<nav style="text-align: center; margin-bottom: 20px; font-family: 'Arial', sans-serif;">
+  <a href="experience.md" style="margin: 0 15px; font-size: 18px; text-decoration: none; color: #0078D4; font-weight: 500;">Experience</a>
 </nav>
 
-<!-- Profile Photo (centered) -->
-<p align="center">
-  <img src="files/profile_pic.png" alt="Shreyas Bachiraju" width="200" height="200" style="border-radius: 50%;" />
+<!-- Profile Photo -->
+<p style="text-align: center;">
+  <img src="images/profile.jpg" alt="Shreyas Bachiraju" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
 </p>
 
-# Shreyas Bachiraju
-
-I am an **Informatics undergraduate at Arizona State University**, specializing in **machine learning, deep learning, and AI for social impact**. My academic and professional interests lie at the intersection of **computer vision, reinforcement learning, and autonomous systems**. Currently, I serve as a **Research Intern at the Data Mining and Reinforcement Learning (DaRL) Lab** at ASU under the guidance of [Professor Hua Wei](https://www.public.asu.edu/~hwei27/index.html).
-
-This website serves as a portfolio showcasing my **research, projects, and technical contributions**.
+<!-- Header -->
+<h1 style="text-align: center; font-size: 28px; color: #333; font-family: 'Georgia', serif; margin-bottom: 10px;">Shreyas Bachiraju</h1>
+<p style="text-align: center; font-size: 16px; color: #555; line-height: 1.6; max-width: 600px; margin: 0 auto;">
+  Portfolio of Shreyas Bachiraju – Research, Projects, and Experience in AI and ML
+</p>
 
 ---
 
 ## About Me
 
-- **Education**: B.S. in Informatics, Arizona State University  
-- **Research Interests**:
-  - Model Compression & Optimization for Autonomous Systems
-  - Computer Vision & AI Ethics
-  - Reinforcement Learning & Dataset Distillation  
-- **Achievements**:
-  - HackHarvard 2024 Sustainability Award (U-Plan)
-  - Winner - Ethical Spectacle Hackathon  
-  - New American University Scholar (merit-based)
-- **Current Work**:
-  - Optimizing deep learning models for low-power autonomous systems.
-  - Developing synthetic datasets for more efficient AI training.
+I am currently pursuing a degree in **Informatics** at **Arizona State University**, focusing on **machine learning, deep learning, and AI for social impact**. My academic and professional interests lie at the intersection of **computer vision, reinforcement learning, and autonomous systems**.  
 
-For more details, visit:
-- **[Experience](experience.md)**  
+I am also a **Research Intern** at the **Data Mining and Reinforcement Learning (DaRL) Lab**, working under [Professor Hua Wei](https://www.public.asu.edu/~hwei27/index.html), where I contribute to projects involving **model compression and optimization for autonomous systems**.  
+
+This website highlights my **research, projects, and technical contributions**.
 
 ---
 
-## Get in Touch
+## Highlights
 
-I am open to discussions and collaborations related to **machine learning, AI-driven applications, and interdisciplinary innovation**. If you are working on **autonomous systems, computer vision, or responsible AI**, feel free to connect.
+### Education
+- **B.S. in Informatics**, Arizona State University  
+
+### Research Interests
+- Model Compression & Optimization for Autonomous Systems  
+- Computer Vision & AI Ethics  
+- Reinforcement Learning & Dataset Distillation  
+
+### Achievements
+- HackHarvard 2024 Sustainability Award (U-Plan)  
+- Winner - Ethical Spectacle Hackathon  
+- New American University Scholar (merit-based)  
+
+---
+
+## Contact Me
+
+If you’d like to connect, discuss projects, or collaborate on topics related to **AI, machine learning, or autonomous systems**, feel free to reach out:  
 
 - **LinkedIn**: [linkedin.com/in/shreyasbachiraju/](https://www.linkedin.com/in/shreyasbachiraju/)  
 - **Email**: shreyasbachiraju[at]gmail[dot]com  
 - **GitHub**: [github.com/shreyasbachi](https://github.com/shreyasbachi)  
-- **Twitter**: [@shreyasbachi](https://twitter.com/shreyasbachi)  
 
 ---
 
-## Quick Links
-
-- **[Experience](experience.md)**
-- **[Data Mining & Reinforcement Learning Lab](https://labs.engineering.asu.edu/hw/)**
-- **[Arizona State University](https://www.asu.edu/)**  
-
----
-
-<p align="center">
-  <strong>Thank you for visiting. I look forward to connecting.</strong>
+<p style="text-align: center; font-size: 14px; color: #777;">
+  <strong>Thank you for visiting my site!</strong>
 </p>
