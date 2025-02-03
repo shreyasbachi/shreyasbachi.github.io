@@ -54,5 +54,4 @@ Download my full resume: **[Shreyas_Bachiraju_Resume.pdf](files/Shreyas_Bachiraj
 
 ## 🔗 Quick Navigation  
 - **[Back to Homepage](index.md)**  
-- **[Projects & Research](researchprojects.md)**  
 - **[Resume](resume.md)**  

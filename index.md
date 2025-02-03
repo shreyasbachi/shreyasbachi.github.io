@@ -4,7 +4,7 @@ layout: default
 
 <!-- Navigation Bar -->
 <nav style="text-align: center; margin-bottom: 30px; font-family: Arial, sans-serif;">
-  <a href="experience.md" style="margin: 0 20px; font-size: 18px; text-decoration: none; color: #0366d6; border-bottom: 2px solid transparent; padding-bottom: 5px;">
+  <a href="experience" style="margin: 0 20px; font-size: 18px; text-decoration: none; color: #0366d6; border-bottom: 2px solid transparent; padding-bottom: 5px;">
     Experience
   </a>
 </nav>
