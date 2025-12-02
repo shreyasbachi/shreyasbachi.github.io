@@ -1,47 +1,46 @@
 ---
 layout: default
-title: Publications
+title: Publications & Presentations
 ---
 
-# Publications
+# Publications & Presentations
 
 <p class="section-intro">
-    My research focuses on model compression for autonomous systems, sustainable urban computing, and efficient AI deployment on resource-constrained devices.
+    My research contributions span efficient AI systems, transportation planning, and edge computing.
 </p>
 
-## Conference Papers
+## Journal & Conference Papers
 
 <div class="card">
-    <h3>Model Compression Techniques for Autonomous Vehicles</h3>
-    <span class="meta">In Preparation</span>
+    <h3><a href="https://rlj.cs.umass.edu/2025/papers/Paper256.html" target="_blank">Joint-Local Grounded Action Transformation for Sim-to-Real Transfer in Multi-Agent Traffic Control</a></h3>
+    <span class="meta">Reinforcement Learning Journal, 2025 • Presented at RLC 2025</span>
     <p>
-        Investigating quantization, pruning, and knowledge distillation methods for deploying deep learning models on NVIDIA Jetson edge devices for autonomous driving applications.
+        Turnau, J., Da, L., Vo, K., Al Rafi, F., <strong>Bachiraju, S.</strong>, Chen, T., & Wei, H. (2025). <em>Reinforcement Learning Journal</em>, 6, 2271–2290.
     </p>
-    <p><strong>Shreyas Bachiraju</strong>, Hua Wei</p>
+    <p>
+        This work addresses the sim-to-real gap in multi-agent reinforcement learning for traffic signal control, proposing a novel action transformation approach that enables policies trained in simulation to transfer effectively to real-world scenarios.
+    </p>
 </div>
 
-## Workshop Papers & Extended Abstracts
+## Preprints & Under Review
 
 <div class="card">
-    <h3>Dataset Distillation using Reinforcement Learning</h3>
-    <span class="meta">In Progress</span>
+    <h3><a href="https://arxiv.org/abs/2503.07158" target="_blank">Generative AI in Transportation Planning: A Survey</a></h3>
+    <span class="meta">Under Journal Revision • arXiv:2503.07158</span>
     <p>
-        Exploring reinforcement learning techniques to create synthetic datasets that preserve key statistical properties while reducing training time and computational costs.
+        Da, L., Chen, T., Li, Z., <strong>Bachiraju, S.</strong>, Yao, H., Li, L., Dong, Y., Hu, X., Tu, Z., Wang, D., Zhao, Y., Zhou, B., Pendyala, R., Stabler, B., Yang, Y., Zhou, X., & Wei, H. (2025).
     </p>
-    <p><strong>Shreyas Bachiraju</strong>, Hua Wei</p>
+    <p>
+        A comprehensive survey examining how large language models and generative AI can optimize transportation systems, with a focus on origin-destination matrix estimation and urban planning applications.
+    </p>
 </div>
 
-## Preprints & Technical Reports
+## Presentations & Posters
 
 <div class="card">
-    <h3>U-Plan: AI-Driven Urban Heat Island Mitigation</h3>
-    <span class="meta">HackHarvard 2024</span>
+    <h3><a href="https://forge.engineering.asu.edu/participant/bachiraju-shreyas/" target="_blank">Compression of Deep Neural Networks for Edge Devices</a></h3>
+    <span class="meta">Fulton Forge Student Research Expo, 2025 • Poster Presentation</span>
     <p>
-        A geospatial analytics platform leveraging AI and GIS data to identify urban heat islands and provide data-driven recommendations for sustainable urban planning.
+        Presented research on mixed-precision quantization and model compression techniques for deploying depth-estimation models on NVIDIA Jetson Nano hardware, achieving significant improvements in latency and throughput while maintaining accuracy.
     </p>
-    <p><strong>Team Project</strong> • <a href="https://devpost.com/software/u-plan">View on Devpost</a></p>
 </div>
-
----
-
-*Note: This page will be updated as new publications become available.*
