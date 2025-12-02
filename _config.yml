@@ -4,12 +4,6 @@ author: "Shreyas Bachiraju"
 baseurl: "" 
 url: "https://shreyasbachi.github.io"
 
-nav:
-  - title: "Experience"
-    url: "/experience"
-
-# theme: jekyll-theme-minimal
-
 # Markdown Settings
 markdown: kramdown
 permalink: pretty

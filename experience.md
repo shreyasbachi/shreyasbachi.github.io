@@ -5,53 +5,47 @@ title: Experience
 
 # Experience
 
-## Resume
+## Research Experience
 
-Download my full resume: **[Shreyas_Bachiraju_Resume.pdf](files/Shreyas_Bachiraju_Resume.pdf)**
+<div class="card">
+    <h3>Research Intern</h3>
+    <span class="meta">Data Mining & Reinforcement Learning Lab, ASU | Sep 2024 – Present</span>
+    <ul>
+        <li>Investigating <strong>Deep Neural Network model compression</strong> for autonomous systems on NVIDIA Jetson-powered edge devices.</li>
+        <li>Exploring <strong>dataset distillation</strong> techniques using reinforcement learning to optimize model training efficiency.</li>
+        <li>Conducting a case study on transportation planning, optimizing the Origin/Destination Matrix using LLaMa LLM to improve route efficiency.</li>
+    </ul>
+</div>
 
----
+## Industry Experience
 
-## 🔬 Research Experience
+<div class="card">
+    <h3>AI/ML Intern (Computer Vision)</h3>
+    <span class="meta">Netradyne | May 2024 – Jul 2024</span>
+    <ul>
+        <li>Conducted research and validation of SOTA depth estimation models for Time to Collision (TTC) estimation in ADAS.</li>
+        <li>Developed an automated pipeline using Python and AWS S3 to process 30,000+ videos, reducing inference time by 90%.</li>
+        <li>Improved model accuracy by 15% through hyperparameter tuning and integrated depth data with YOLOv5 models.</li>
+    </ul>
+</div>
 
-### **Research Intern – Data Mining & Reinforcement Learning Lab**  
-**Arizona State University** | September 2024 – Present  
+<div class="card">
+    <h3>Software Engineer Intern</h3>
+    <span class="meta">Clocr Inc. | Jun 2023 – Jul 2023</span>
+    <ul>
+        <li>Integrated OpenAI’s LLM into My-Legacy.ai, reducing hallucinations in legal queries by 20% through fine-tuning.</li>
+        <li>Conducted A/B testing and user feedback analysis, increasing user satisfaction by 40%.</li>
+    </ul>
+</div>
 
-- Investigating **Deep Neural Network model compression** for **autonomous systems** on **NVIDIA Jetson-powered edge devices** as part of the **Fulton Undergraduate Research Initiative**.  
-- Exploring **dataset distillation** techniques using **reinforcement learning (Stable-Baselines3, PyTorch)** to optimize model training efficiency.  
-- Conducting a **case study on transportation planning**, optimizing the **Origin/Destination Matrix** using **LLaMa LLM from HuggingFace** to improve route efficiency.  
+## Leadership
 
----
-
-## 🏢 Industry Experience
-
-### **AI/ML Intern (Computer Vision) – Netradyne**  
-**May 2024 – July 2024**  
-
-- Conducted in-depth research and **validation of state-of-the-art (SOTA) depth estimation models** for **Time to Collision (TTC) estimation** in **Advanced Driver Assistance Systems (ADAS)** using **PyTorch**.  
-- Developed an **end-to-end automated pipeline** using **Python and AWS S3** to extract and process **30,000+ videos**, reducing model inference time by **90%**.  
-- Improved **model accuracy by 15%** through **hyperparameter tuning**, generating depth data for **280,000+ images** and integrating it with **YOLOv5 object detection models** for **depth prediction training**.  
-
----
-
-### **Software Engineer Intern – Clocr Inc.**  
-**June 2023 – July 2023**  
-
-- Integrated **OpenAI’s LLM** into **My-Legacy.ai**, an **estate planning chatbot**, reducing **LLM hallucinations in legal queries by 20%** through **fine-tuning** with a **custom knowledge base**.  
-- Conducted **A/B testing and user feedback analysis**, improving chatbot personalization and increasing **user satisfaction by 40%**.  
-
----
-
-## 🎓 Leadership Experience
-
-### **Founding Co-President – CS+Social Good at ASU**  
-**Arizona State University** | 2023 – Present  
-
-- Established and led **CS+Social Good at ASU**, fostering a **community-driven approach** to **ethical AI, responsible tech, and social impact initiatives**.  
-- Organized **workshops and hackathons** on **machine learning, bias detection, and ethical AI development**.  
-- Mentored students in **data science and AI**, helping them transition from **theory to real-world applications**.  
-
----
-
-## 🔗 Quick Navigation  
-- **[Back to Homepage](index.md)**  
-- **[Resume](resume.md)**  
+<div class="card">
+    <h3>Founding Co-President</h3>
+    <span class="meta">CS+Social Good at ASU | 2023 – Present</span>
+    <ul>
+        <li>Established a community-driven approach to ethical AI and social impact initiatives.</li>
+        <li>Organized workshops and hackathons on machine learning and bias detection.</li>
+        <li>Mentored students in data science and AI.</li>
+    </ul>
+</div>
