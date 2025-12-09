@@ -15,7 +15,7 @@ Recognition for research excellence, innovation in AI/ML, and academic achieveme
     <h3>🏆 HackHarvard 2024 – 1st Place Winner (Sustainability Track)</h3>
     <span class="meta">October 2024 • Harvard University</span>
     <p>
-Selected from over <strong>1,000 students across 284 universities and 22 countries</strong> at Harvard University's 36-hour hackathon. Developed <a href="https://devpost.com/software/u-plan" target="_blank">U-Plan</a>, an AI-powered geospatial analytics platform for urban heat island mitigation.
+Developed <a href="https://devpost.com/software/u-plan" target="_blank">U-Plan</a>, an AI-powered geospatial analytics platform for urban heat island mitigation.
     </p>
 </div>
 
@@ -57,7 +57,7 @@ Selected from over <strong>1,000 students across 284 universities and 22 countri
 
 <div class="card">
     <h3>📚 Dean's List: All Semesters (2022–Present)</h3>
-    <span class="meta">Maintained GPA: 3.95</span>
+    <span class="meta">GPA: 3.95</span>
     <p>
         Maintained a strong academic record each semester while completing advanced coursework and conducting research.
     </p>
@@ -67,7 +67,7 @@ Selected from over <strong>1,000 students across 284 universities and 22 countri
 
 <div class="card">
     <h3>👥 Founding Co-President - CS+Social Good at ASU</h3>
-    <span class="meta">2023 - Present</span>
+    <span class="meta">2024 - 2025</span>
     <p>
         Established and lead a student organization focused on leveraging computer science for social impact, organizing workshops on ethical AI and mentoring students in responsible technology development.
     </p>

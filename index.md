@@ -10,9 +10,6 @@ title: Home
         <p>
             Informatics undergraduate at Arizona State University. Researcher in sustainable urban computing and efficient AI for autonomous systems.
         </p>
-        <p>
-            Research Intern at the Data Mining and Reinforcement Learning Lab working on urban computing, dataset distillation, and model compression.
-        </p>
     </div>
 </div>
 
