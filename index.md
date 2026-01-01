@@ -32,7 +32,7 @@ Beyond research, I co-founded CS+Social Good at ASU to build a community to buil
 
 **📝 Research Publications** — Co-author on paper at Reinforcement Learning Conference 2025 and survey paper under journal revision on generative AI in transportation planning
 
-**🎓 CRA Outstanding Undergraduate Researcher Nominee** — Nominated by ASU School of Computing faculty for prestigious national distinction
+**🎓 CRA Outstanding Undergraduate Researcher Honorable Mention** — Recognized nationally by the Computing Research Association for exceptional research achievement (2025-26)
 
 **🔬 Fulton Forge Research Expo** — Presented poster on neural network compression for edge devices, achieving 99% accuracy retention with 42% model size reduction
 

@@ -30,10 +30,10 @@ Developed <a href="https://devpost.com/software/u-plan" target="_blank">U-Plan</
 ## Research Recognition
 
 <div class="card">
-    <h3>🎯 Nominee, Computing Research Association's (CRA) Outstanding Undergraduate Researcher Award</h3>
-    <span class="meta">Decision Pending</span>
+    <h3>🎯 Honorable Mention, Computing Research Association's (CRA) Outstanding Undergraduate Researcher Award</h3>
+    <span class="meta">2025-26</span>
     <p>
-        Nominated by the School of Computing and Augmented Intelligence faculty for the CRA's prestigious undergraduate distinction, awarded to students demonstrating exceptional research achievement, publication record, and contributions to the broader research community.
+        Recognized by the CRA with an honorable mention for demonstrating exceptional research achievement, publication record, and contributions to the broader research community. Nominated by the School of Computing and Augmented Intelligence faculty for this prestigious national distinction.
     </p>
 </div>
 
