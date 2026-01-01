@@ -31,7 +31,7 @@ title: Publications & Presentations
         Da, L., Chen, T., Li, Z., <strong>Bachiraju, S.</strong>, Yao, H., Li, L., Dong, Y., Hu, X., Tu, Z., Wang, D., Zhao, Y., Zhou, B., Pendyala, R., Stabler, B., Yang, Y., Zhou, X., & Wei, H. (2025).
     </p>
     <div style="text-align: center; margin: 1.5rem 0;">
-        <img src="/files/genAI_transportation.png" alt="Generative AI in Transportation Planning" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+        <img src="files/genAI_transportation.png" alt="Generative AI in Transportation Planning" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
     </div>
     <p>
         A comprehensive survey examining how large language models and generative AI can optimize transportation systems, with a focus on origin-destination matrix estimation and urban planning applications.
