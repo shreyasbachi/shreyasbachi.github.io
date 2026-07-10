@@ -1,0 +1,132 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Shreyas Bachiraju
+    - name: Focus
+      value: Efficient AI · Model Compression · Reinforcement Learning · ML for Smart Cities
+    - name: Email
+      value: shreyasbachiraju@gmail.com
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.S. in Machine Learning
+      institution: Carnegie Mellon University, Pittsburgh, PA
+      year: Aug 2026 - Dec 2027
+      description:
+        - Machine Learning Department, School of Computer Science
+    - title: B.S. in Informatics
+      institution: Arizona State University, Tempe, AZ
+      year: May 2026
+      description:
+        - GPA 3.98
+        - Fulton Engineering Outstanding Graduate
+        - New American University Scholar (merit-based, $14.5k/yr) · Dean's List (all semesters)
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Intern — Data Mining & Reinforcement Learning Lab
+      institution: Arizona State University (Prof. Hua Wei)
+      year: Sept 2024 - Dec 2025
+      description:
+        - Built a PyTorch–ONNX–TensorRT mixed-precision pipeline for real-time depth estimation on Jetson Nano, reducing latency by 33%, shrinking model size by 42%, and increasing throughput by 50% while retaining 99% baseline accuracy.
+        - Designed a dataset-distillation method for RL using a bi-level meta-learning pipeline in PyTorch, compressing a 100K-step PPO trajectory into 50 synthetic states and retaining 96% of expert policy performance.
+        - Contributed to JL-GAT for sim-to-real multi-agent traffic control (RLC 2025) and a survey on generative AI in transportation planning.
+    - title: Research Intern — ASU Center for Semiconductor Microelectronics (ACME)
+      institution: Arizona State University (Prof. Krishnendu Chakrabarty)
+      year: June 2025 - Aug 2025
+      description:
+        - Profiled Mixtral-8×7B MoE inference on GPU–CPU systems using NVML, RAPL, and CUDA; built a thread-safe expert-swapping pipeline with explicit GPU memory management, pinned-host transfers, and CUDA stream scheduling.
+        - Identified memory swapping as the primary bottleneck (~60% of energy and latency overhead); proposed an energy- and residency-aware routing policy to prefetch non-resident experts into GPU memory.
+
+- title: Industry Experience
+  type: time_table
+  contents:
+    - title: AI/ML Intern
+      institution: Netradyne
+      year: May 2024 - July 2024
+      description:
+        - Built an end-to-end Python and Amazon S3 pipeline to extract frames from 30,000+ dashcam videos and run depth-model inference in parallel, reducing total processing time by 90%.
+        - Improved per-sample inference time by 25% via batch inference while benchmarking SOTA monocular depth-estimation models in PyTorch for time-to-collision estimation in ADAS.
+        - Reduced Absolute Relative Error by 15% through hyperparameter tuning; generated depth maps for 280,000+ images as synthetic training data for a YOLOv5-based model.
+    - title: Software Engineer Intern
+      institution: Clocr Inc.
+      year: June 2023 - July 2023
+      description:
+        - Integrated OpenAI GPT API into an estate-planning chatbot and reduced hallucinated responses by 20% via RAG pipelines over custom legal knowledge bases and domain-specific prompt tuning.
+        - Improved chatbot helpfulness ratings by 40% in UX trials via A/B tests on prompt templates, retrieval relevance, and personalized recommendation logic.
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Joint-Local Grounded Action Transformation for Sim-to-Real Transfer in Multi-Agent Traffic Control
+      institution: Reinforcement Learning Journal, 6, 2271–2290 · Presented at RLC 2025
+      year: 2025
+      description:
+        - Turnau, J., Da, L., Vo, K., Al Rafi, F., <b>Bachiraju, S.</b>, Chen, T., & Wei, H.
+    - title: Generative AI in Transportation Planning — A Survey
+      institution: arXiv:2503.07158 · Preprint
+      year: 2025
+      description:
+        - Da, L., Chen, T., Li, Z., <b>Bachiraju, S.</b>, Yao, H., Li, L., et al.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Circle.ooo — AI Event and Sponsorship Marketplace (Capstone)
+      year: 2026
+      description:
+        - LangGraph-based multi-agent event discovery engine converting natural-language queries into ranked, registration-ready events aggregated from web search, Eventbrite, and Luma.
+        - Sponsor–event matching system with an LLM-based voice assistant for discovery, valuation, and outreach.
+    - title: U-Plan — HackHarvard 2024 Winner (Sustainability)
+      year: 2024
+      description:
+        - City-scale sustainability platform over 50+ Phoenix ZIP codes using SAM segmentation and remote-sensing analytics (NDVI, NDWI, LST), generating LLM-driven heat-mitigation strategies.
+    - title: TransformersNotFound — Open-Source GPT
+      year: 2024
+      description:
+        - Fine-tuned LLaMA-3.2 3B with LoRA adapters on a custom Chain-of-Thought dataset; multi-GPU distributed training and optimized inference with HuggingFace Accelerate and vLLM.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Fulton Engineering Outstanding Graduate — Ira A. Fulton Schools of Engineering, ASU
+        - CRA Outstanding Undergraduate Researcher Award — Honorable Mention
+    - year: 2025
+      items:
+        - Fulton Undergraduate Research Initiative (FURI) Research Scholar
+    - year: 2024
+      items:
+        - HackHarvard 2024 — 1st Place, Sustainability Track
+        - Ethical Spectacle Research Sustainability Hackathon — 1st Place Overall
+    - year: 2022-26
+      items:
+        - New American University Scholar ($14.5k/yr) · Dean's List (all semesters)
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Efficient & Sustainable AI
+      items:
+        - Dataset distillation, quantization, and model compression
+        - Energy-efficient inference for large and Mixture-of-Experts models
+    - title: ML for the Real World
+      items:
+        - Urban computing, transportation planning, and traffic control
+        - Edge deployment on resource-constrained hardware
+
+- title: Skills & Coursework
+  type: list
+  contents:
+    - <u>Languages:</u> Python, Java, C/C++, SQL, JavaScript, R, MATLAB
+    - <u>ML / Tools:</u> PyTorch, HuggingFace, Transformers, scikit-learn, vLLM, Accelerate, TensorRT, ONNX, Stable-Baselines3, OpenCV, NumPy/SciPy, AWS, Docker, REST
+    - <u>Relevant Coursework:</u> Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Data Structures and Algorithms, Advanced Object-Oriented Programming, Software Engineering, Statistics, Linear Algebra
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Beyond research:</u> Football (soccer), music production, and CS + Social Good.

@@ -1,10 +1,11 @@
 #!/bin/bash
-# Script to run Jekyll with the correct Ruby from conda environment
-
-CONDA_ENV_PATH="/opt/homebrew/Caskroom/miniconda/base/envs/personal_website"
-export PATH="$CONDA_ENV_PATH/bin:$PATH"
-export GEM_HOME="$CONDA_ENV_PATH/share/rubygems"
-export GEM_PATH="$CONDA_ENV_PATH/share/rubygems:$CONDA_ENV_PATH/lib/ruby/gems/3.2.0"
-
+# Serve the al-folio site locally.
+# Uses the Homebrew Ruby (where the gems are installed) and points clang at the
+# SDK's libc++ headers so any native gem rebuilds succeed on this machine.
+set -e
+export PATH="/opt/homebrew/opt/ruby/bin:/opt/homebrew/bin:/usr/bin:$PATH"
+SDK="$(xcrun --show-sdk-path)"
+export CXXFLAGS="-isystem $SDK/usr/include/c++/v1"
+export CPPFLAGS="-isystem $SDK/usr/include/c++/v1"
 cd "$(dirname "$0")"
-exec $CONDA_ENV_PATH/bin/ruby -I $GEM_HOME/gems/jekyll-4.4.1/lib $GEM_HOME/gems/jekyll-4.4.1/exe/jekyll serve --livereload
+exec bundle exec jekyll serve --host 127.0.0.1 --port 4000 --livereload "$@"
