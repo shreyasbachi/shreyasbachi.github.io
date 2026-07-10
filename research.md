@@ -6,14 +6,14 @@ title: Research
 # Research
 
 <p class="section-intro">
-My research focuses on efficient AI systems, model compression, and sustainable urban computing at Arizona State University.
+My research focuses on efficient AI systems, model compression, and sustainable urban computing — now as a Master's student in Machine Learning at Carnegie Mellon University, building on two years of undergraduate research at Arizona State University.
 </p>
 
-## Current Research
+## Research Experience
 
 <div class="card">
     <h3>Research Intern</h3>
-    <span class="meta">Data Mining and Reinforcement Learning Lab, ASU | September 2024 – Present</span>
+    <span class="meta">Data Mining and Reinforcement Learning Lab, ASU | September 2024 – May 2026</span>
     <p>
         I work under Professor Hua Wei exploring how to make AI training more efficient and deployable in real-world scenarios. My research spans multiple projects that tackle the computational challenges of modern machine learning systems.
     </p>

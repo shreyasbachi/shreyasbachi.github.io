@@ -47,7 +47,7 @@ Industry internships and leadership roles in AI, machine learning, and technolog
 
 <div class="card">
     <h3>Founding Co-President</h3>
-    <span class="meta">CS+Social Good at ASU | 2023 – Present</span>
+    <span class="meta">CS+Social Good at ASU | 2023 – 2026</span>
     <p>
         I co-founded CS+Social Good to create a space where students interested in ethical AI and technology for social impact could learn, collaborate, and build together. We organize workshops on topics like algorithmic bias, fairness in machine learning, and responsible AI development—bridging the gap between technical skills and their societal implications.
     </p>
