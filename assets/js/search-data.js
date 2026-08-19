@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Education, research, industry experience, awards, and skills. Download the full PDF above.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "news-won-1st-place-in-the-sustainability-track-at-hackharvard-2024-for-u-plan-an-ai-powered-urban-heat-island-mitigation-platform",
           title: 'Won 1st Place in the Sustainability Track at HackHarvard 2024 for U-Plan, an...',
           description: "",
