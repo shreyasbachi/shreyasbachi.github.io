@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. in Machine Learning, <a href='https://www.ml.cmu.edu/'>Carnegie Mellon University</a>. Efficient AI · Model Compression · ML for Smart Cities.
+subtitle: #M.S. in Machine Learning, <a href='https://www.ml.cmu.edu/'>Carnegie Mellon University</a>. #Efficient AI · Model Compression · ML for Smart Cities.
 
 profile:
   align: right
@@ -29,7 +29,15 @@ latest_posts:
 
 I'm a Master's student in **Machine Learning** at [Carnegie Mellon University](https://www.ml.cmu.edu/), where I focus on efficient and reliable machine learning systems. I completed my B.S. in Informatics at Arizona State University, where I was fortunate to conduct research under the supervision of [Prof. Hua Wei](https://labs.engineering.asu.edu/hw/) and [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916).
 
-My research focuses on efficient large language models, reinforcement learning, and sustainable urban computing. Recent projects include compressing 100K-step reinforcement learning runs into tiny synthetic datasets, profiling energy bottlenecks in Mixture-of-Experts language models, generative AI for transportation planning, and optimizing neural networks for edge devices like the Jetson Nano.
+Broadly, I'm interested in making large language models more capable, more efficient, and more sustainable. My research interests include:
+
+- **Sustainable AI** — energy-efficient LLMs, and AI applied to sustainability problems
+- **Efficient LLMs** — inference, serving systems, and model compression
+- **Post-Training & RL** — aligning and improving models after pre-training
+- **Data Efficiency** — synthetic data and learning more from less
+- **LLM Agents** — reliable multi-step reasoning and tool use
+
+The thread running through all of it is doing more with less — less compute, less data, and less energy — without giving up capability. Recent projects include compressing 100K-step reinforcement learning runs into tiny synthetic datasets, profiling energy bottlenecks in Mixture-of-Experts language models, generative AI for transportation planning, and optimizing neural networks for edge devices like the Jetson Nano.
 
 I was named a **[Fulton Outstanding Graduate](https://news.engineering.asu.edu/graduate/shreyas-bachiraju/)** by ASU's Ira A. Fulton Schools of Engineering, won **1st Place at HackHarvard 2024**, and received an **Honorable Mention for the CRA Outstanding Undergraduate Researcher Award (2025–26)**. Beyond research, I co-founded *CS + Social Good at ASU* to build technical tools for NGOs. Outside of academia, I'm an avid football (soccer) fan and a music producer.
 

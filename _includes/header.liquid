@@ -117,6 +117,12 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if site.data.socials.cv_pdf %}
+            <!-- Resume (links straight to the PDF) -->
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.data.socials.cv_pdf | relative_url }}" target="_blank">resume</a>
+            </li>
+          {% endif %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
