@@ -12,6 +12,7 @@ profile:
     <p>Machine Learning Department</p>
     <p>Carnegie Mellon University</p>
     <p>Pittsburgh, PA</p>
+    <p>email: sbachira [at] cs [dot] cmu [dot] edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Master's student in **Machine Learning** at [Carnegie Mellon University](https://www.ml.cmu.edu/), where I focus on efficient and reliable machine learning systems. I completed my B.S. in Informatics at Arizona State University, where I was fortunate to conduct research under the supervision of [Prof. Hua Wei](https://labs.engineering.asu.edu/hw/) and [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916).
+I'm a Master's student in **Machine Learning** at [Carnegie Mellon University](https://www.ml.cmu.edu/), where I focus on efficient and safe machine learning systems. I am currently advised by [Prof. Virginia Smith](https://www.cs.cmu.edu/~smithv/).
+
+I completed my B.S. in Informatics at Arizona State University, where I was fortunate to conduct research under the supervision of [Prof. Hua Wei](https://labs.engineering.asu.edu/hw/) and [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916).
 
 Broadly, I'm interested in making large language models more capable, more efficient, safe, and more sustainable. My research interests include:
 
@@ -40,4 +43,4 @@ The thread running through all of it is AI for good: building systems that are e
 
 I was named a **[Fulton Outstanding Graduate](https://news.engineering.asu.edu/graduate/shreyas-bachiraju/)** by ASU's Ira A. Fulton Schools of Engineering, won **1st Place at HackHarvard 2024**, and received an **Honorable Mention for the CRA Outstanding Undergraduate Researcher Award (2025–26)**. Beyond research, I co-founded *CS + Social Good at ASU* to build technical tools for NGOs. Outside of academia, I'm an avid football (soccer) fan and a music producer.
 
-I believe technical excellence and thoughtful consideration of AI's societal impact should go hand in hand. Feel free to reach out over [email](mailto:shreyasbachiraju@gmail.com).
+I believe technical excellence and thoughtful consideration of AI's societal impact should go hand in hand. Feel free to reach out over [email](mailto:sbachira@cs.cmu.edu).

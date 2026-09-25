@@ -143,8 +143,6 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
-    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
