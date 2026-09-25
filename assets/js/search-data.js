@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "Selected projects across sustainability, computer vision, and language models.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "news-won-1st-place-in-the-sustainability-track-at-hackharvard-2024-for-u-plan-an-ai-powered-urban-heat-island-mitigation-platform",
           title: 'Won 1st Place in the Sustainability Track at HackHarvard 2024 for U-Plan, an...',
           description: "",
@@ -38,27 +31,7 @@ ninja.data = [{
           section: "News",},{id: "news-starting-my-m-s-in-machine-learning-at-carnegie-mellon-university",
           title: 'Starting my M.S. in Machine Learning at Carnegie Mellon University! 🐾',
           description: "",
-          section: "News",},{id: "projects-circle-ooo",
-          title: 'Circle.ooo',
-          description: "Capstone Project — AI event and sponsorship marketplace",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/0_circle/";
-            },},{id: "projects-u-plan",
-          title: 'U-Plan',
-          description: "AI-driven urban heat island mitigation — HackHarvard 2024 winner 🏆",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_uplan/";
-            },},{id: "projects-feal",
-          title: 'Feal?',
-          description: "Fake vs. real image classifier — 97.3% accuracy",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_feal/";
-            },},{id: "projects-transformersnotfound",
-          title: 'TransformersNotFound',
-          description: "Building an open-source GPT from scratch",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_transformersnotfound/";
-            },},{
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
