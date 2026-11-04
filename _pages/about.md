@@ -12,7 +12,7 @@ profile:
     <p>Machine Learning Department</p>
     <p>Carnegie Mellon University</p>
     <p>Pittsburgh, PA</p>
-    <p>email: sbachira [at] cs [dot] cmu [dot] edu</p>
+    <p style="font-size: 0.8em;">email: sbachira [at] cs [dot] cmu [dot] edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
